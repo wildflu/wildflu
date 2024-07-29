@@ -21,34 +21,13 @@ Passionate Full Stack Developer with expertise in Flutter for mobile app develop
 - :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
 - :student: I’m currently learning `Software Engineering`.
 - :nerd_face: Always `learning new things`.
+- 👯 I'm looking to collaborate on any Tech 
+- 💬 Ask me about `Flutter` and `nodeJs` & `React`
+- 📫 How to reach me: `Walidcode0@gmail.com`
+- 😄 Pronouns: `wildflu`
+
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://firebasestorage.googleapis.com/v0/b/wildflu.appspot.com/o/images%2Fstatic%2Fwalidlotfi-cv-v2.pdf?alt=media&token=7815e434-6816-486a-992e-d04f6edb1057).
 - :boom: You can visit [MY WEBSITE](https://wildflu.web.app/).
 <br>
 
-
-
-
-
-
-
-
-
-
-
-
-## Hi there 👋
-
-
-**wildflu/wildflu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
